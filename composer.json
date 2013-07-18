@@ -1,0 +1,13 @@
+{
+    "name": "atlantic2/mustached-checkin",
+    "type": "fuel-module",
+    "authors": [
+        {
+            "name": "Jérémie Pottier",
+            "email": "jeremie.pottier@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0",
+    }
+}
